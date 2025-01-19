@@ -4,7 +4,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-React.js, Next.js, Node.js, Postgresql, MongoDB, Docker, Kubernetes React Native and Swift
+React.js, Next.js, Node.js, Postgresql, MongoDB, Docker, Kubernetes
+React Native and Swift
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [itsme.liamanderson1@gmail.com](mailto:itsme.liamanderson1@gmail.com)
