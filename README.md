@@ -5,7 +5,7 @@ Web Developer
 -------------
 
 React.js, Next.js, Node.js, Postgresql, MongoDB, Docker, Kubernetes
-React Native and Swift
+<br>React Native and Swift
 
 * 🌍  I'm based in Los Angeles
 * ✉️  You can contact me at [itsme.liamanderson1@gmail.com](mailto:itsme.liamanderson1@gmail.com)
